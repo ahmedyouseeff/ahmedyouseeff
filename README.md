@@ -1,12 +1,12 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)](https://www.linkedin.com/in/ahmed-mo-yousef/)
 <h1 align="center">Hi 👋, I'm Ahmed Yousef</h1>
-<h3 align="center">A passionate Frontend developer from Egypt</h3>
+<h3 align="center">A passionate Frontend developer</h3>
 <img width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedyouseeff&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedyouseeff" /> </p>
 
-- 🔭 I’m currently working on **Car Hub**
+- 🔭 I’m currently working on **Store**
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Angular 17**
 
 - 💬 Ask me about **Angular**
 
