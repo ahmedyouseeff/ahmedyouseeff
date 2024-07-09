@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Store**
 
-- 🌱 I’m currently learning **Angular 17**
+- 🌱 I’m currently learning **Performance Optimization**
 
 - 💬 Ask me about **Angular**
 
