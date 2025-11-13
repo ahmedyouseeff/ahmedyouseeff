@@ -4,13 +4,13 @@
 <img width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedyouseeff&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedyouseeff" /> </p>
 
-- 🔭 I’m currently working on **Store**
+- 🔭 I’m currently working on **Hospital Managment System**
 
 - 🌱 I’m currently learning **Performance Optimization**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Angular** or **React**
 
-- 📫 How to reach me **ahmedyouseeff9@gmail.com**
+- 📫 How to reach me: **ahmedyouseeff9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
